@@ -1,6 +1,6 @@
 f
 f
-int a = 1 + 2;
+int a = 1 + 2 + 6;
 d
 d
 d
